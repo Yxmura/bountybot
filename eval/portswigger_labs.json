@@ -1,0 +1,17 @@
+[
+  {"slug": "sql-injection", "name": "SQL injection - basic", "difficulty": 1},
+  {"slug": "blind-sql-injection", "name": "Blind SQL injection", "difficulty": 2},
+  {"slug": "reflected-xss", "name": "Reflected XSS", "difficulty": 1},
+  {"slug": "stored-xss", "name": "Stored XSS", "difficulty": 2},
+  {"slug": "dom-xss", "name": "DOM XSS", "difficulty": 2},
+  {"slug": "ssrf-basic", "name": "SSRF - basic", "difficulty": 2},
+  {"slug": "ssrf-with-filter", "name": "SSRF - with filter bypass", "difficulty": 3},
+  {"slug": "idor", "name": "IDOR", "difficulty": 1},
+  {"slug": "csrf", "name": "CSRF", "difficulty": 2},
+  {"slug": "open-redirect", "name": "Open redirect", "difficulty": 1},
+  {"slug": "ssti", "name": "Server-side template injection", "difficulty": 3},
+  {"slug": "xxe", "name": "XXE injection", "difficulty": 3},
+  {"slug": "file-path-traversal", "name": "File path traversal", "difficulty": 2},
+  {"slug": "race-condition", "name": "Race condition", "difficulty": 4},
+  {"slug": "graphql", "name": "GraphQL injection", "difficulty": 3}
+]
